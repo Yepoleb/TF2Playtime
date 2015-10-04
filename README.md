@@ -15,13 +15,19 @@ Copy your Steam Web API key into a file called `key.txt`.
 
 The last script prints the results to the terminal.
 
-##Cache
+## Result
+
+Image generated using LibreOffice Calc.
+
+![result.png](result.png)
+
+## Cache
 
 Profile "names" are cached in `vanitycache.json`  
 Steam HTML files are cached in `group/`  
-User stats are cached in `stats`
+User stats are cached in `stats`  
 
-##License
+## License
 
 [WTFPL](LICENSE)
 
